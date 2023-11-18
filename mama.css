@@ -1,0 +1,108 @@
+
+* {
+    margin: 0%;
+    padding: 0%;
+
+}
+.Y1{
+
+    float: left;
+    color: red;
+    font-size: 30px;
+    border-radius:100%;
+    background-color: grey;
+}
+ul {
+    float: right;
+    list-style: none;
+}
+li{
+    float: right;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+nav{
+   
+    height: 70px;
+    background-color: green;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.d3{
+ background-image: url(WhatsApp\ Image\ 2023-11-18\ at\ 17.03.05_c53655e7.jpg);
+    height: 700px; 
+    background-repeat:no-repeat;
+    background-size: contain;
+    text-align: center;
+background-attachment: fixed;
+}
+.d1{
+    padding: 200px;
+}
+.Y3{
+    font-size: 50px;
+    color: white;
+}
+.P1{
+    margin-top: 25px;
+    font-size: 30px;
+    color: rgb(11, 11, 12);
+}
+.btn1{
+    margin-top: 20px;
+}
+/*Section2*/
+body{
+    background-color: beige;
+
+}
+.y6{
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+    margin: 20px;
+}
+.img3{
+    width: 30%;
+    float: right;
+    
+}
+.m1{
+    width: 70%;
+    float: left;
+    font-size: 26px;
+}
+.img1{
+    height: 500px;
+    width: 330px;
+}
+.t3{
+    text-align: center;
+    color: blue;
+}
+.k{
+   width: 32%;
+   height: 255px;
+    float: left;
+    padding: 10px;
+    background-color: rgb(196, 192, 192);
+}
+h3{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.k:hover{
+    background-color: white;
+}
+.k1{
+    margin-top: 300px;
+    text-align: center;
+    color: blue;
+} 
+.MM {
+    background-color: green;
+    text-align: center;
+}
